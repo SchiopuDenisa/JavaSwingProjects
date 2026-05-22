@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"business_logic"},{"l":"connection"},{"l":"dao"},{"l":"model"},{"l":"org.utcn.pt"},{"l":"presentation"}];updateSearchResults();
