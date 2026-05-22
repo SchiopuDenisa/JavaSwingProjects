@@ -1,4 +1,4 @@
-package org.utcn.pt.entities;
+package project.entities;
 
 import java.io.Serial;
 import java.io.Serializable;

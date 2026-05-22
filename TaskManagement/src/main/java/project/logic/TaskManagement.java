@@ -1,11 +1,11 @@
-package org.utcn.pt.logic;
+package project.logic;
 
 
-import org.utcn.pt.daccess.Data_management;
-import org.utcn.pt.entities.ComplexTask;
-import org.utcn.pt.entities.Employee;
-import org.utcn.pt.entities.SimpleTask;
-import org.utcn.pt.entities.Task;
+import project.daccess.Data_management;
+import project.entities.ComplexTask;
+import project.entities.Employee;
+import project.entities.SimpleTask;
+import project.entities.Task;
 
 
 import java.io.*;

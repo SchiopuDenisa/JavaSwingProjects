@@ -1,9 +1,9 @@
-package org.utcn.pt.gui;
+package project.gui;
 
-import org.utcn.pt.entities.ComplexTask;
-import org.utcn.pt.entities.SimpleTask;
-import org.utcn.pt.entities.Task;
-import org.utcn.pt.logic.TaskManagement;
+import project.entities.ComplexTask;
+import project.entities.SimpleTask;
+import project.entities.Task;
+import project.logic.TaskManagement;
 
 import javax.swing.*;
 import javax.swing.table.AbstractTableModel;

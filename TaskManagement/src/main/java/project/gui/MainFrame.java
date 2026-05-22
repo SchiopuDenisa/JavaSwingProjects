@@ -1,6 +1,6 @@
-package org.utcn.pt.gui;
+package project.gui;
 
-import org.utcn.pt.logic.TaskManagement;
+import project.logic.TaskManagement;
 
 import javax.swing.*;
 import java.awt.*;

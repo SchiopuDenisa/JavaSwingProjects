@@ -1,6 +1,6 @@
-package org.utcn.pt;
+package project;
 
-import org.utcn.pt.gui.MainFrame;
+import project.gui.MainFrame;
 
 public class Main {
     public static void main(String[] args) {

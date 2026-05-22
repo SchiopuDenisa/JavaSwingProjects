@@ -1,4 +1,4 @@
-package org.utcn.pt.daccess;
+package project.daccess;
 
 import java.io.*;
 

@@ -1,7 +1,7 @@
-package org.utcn.pt.gui;
+package project.gui;
 
-import org.utcn.pt.entities.Employee;
-import org.utcn.pt.logic.TaskManagement;
+import project.entities.Employee;
+import project.logic.TaskManagement;
 
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
